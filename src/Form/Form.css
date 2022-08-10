@@ -1,0 +1,28 @@
+.main{
+    border: 3px solid black;
+    width: 400px;
+    margin: 100px auto;
+    background-color: brown;
+    border-radius: 15px;
+}
+
+form{
+    padding: 25px;
+}
+h1{
+    text-align: center;
+}
+.success{
+    background-color: brown;
+    width: 500px;
+    text-align: center;
+    margin: 20px auto;
+    border-radius: 15px;
+    border: 3px solid black;
+}
+.show{
+    display: block;
+}
+.hide{
+    display: none;
+}
